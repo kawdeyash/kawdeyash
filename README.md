@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Yash Kawade
-### 🛡️ 1st-Year Cybersecurity Student • Ethical Hacking • Network Security
+### 🛡️ 2st-Year Cybersecurity Student • Ethical Hacking • Network Security
 
 <p align="center">
   <a href="https://linkedin.com/in/kawdeyash" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
