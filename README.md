@@ -17,7 +17,7 @@
 
 ### 💫 About Me
 
-I am a 1st-year Cybersecurity student passionate about ethical hacking, network defense, digital forensics, and understanding how computing systems work under the hood. Currently, I am actively building my foundation in Linux administration, network architecture, and security automation.
+I am a 2st-year Cybersecurity student passionate about ethical hacking, network defense, digital forensics, and understanding how computing systems work under the hood. Currently, I am actively building my foundation in Linux administration, network architecture, and security automation.
 
 - 🎓 **Education:** 1st-year Undergraduate in Cybersecurity
 - 🛡️ **Interests:** Ethical Hacking, Network Security, Vulnerability Analysis & Digital Forensics
